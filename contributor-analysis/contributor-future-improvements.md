@@ -20,7 +20,7 @@ Some key issues were identified with funding contributors as a funding approach 
 
 **Usage of roles and minimum thresholds**
 
-[Roles](../contributor/roles/) such as development, coordination, analysis, product and design are used help with clarity for voters other contributors. Contributors can define a role so that it is clear where they intend to be focussing the majority of their time whilst contributing in the ecosystem. This can be mixed with having minimum thresholds for certain roles so there is enough capacity in each areas for the cohort to function effectively and support the ecosystem.
+[Roles](broken-reference) such as development, coordination, analysis, product and design are used help with clarity for voters other contributors. Contributors can define a role so that it is clear where they intend to be focussing the majority of their time whilst contributing in the ecosystem. This can be mixed with having minimum thresholds for certain roles so there is enough capacity in each areas for the cohort to function effectively and support the ecosystem.
 
 ****
 
@@ -46,7 +46,7 @@ Through the usage of Atala PRISM the contributors and engaged community can crea
 
 **Contributor treasury**
 
-A [Catalyst contributor treasury](../treasury/catalyst-contributor-treasury.md) can be managed by the contributors and engaged community members to pay for key things used by contributors such as software services or server costs. Over time this treasury can help with hiring other contributors, supporting projects and funding local or online events. A governance system used by the contributors and engaged community members can also be used as a system for allocating rapid funding. Bug fixes, feature changes, local events could all be examples that a trusted community governance process help to support.
+A [Catalyst contributor treasury](broken-reference) can be managed by the contributors and engaged community members to pay for key things used by contributors such as software services or server costs. Over time this treasury can help with hiring other contributors, supporting projects and funding local or online events. A governance system used by the contributors and engaged community members can also be used as a system for allocating rapid funding. Bug fixes, feature changes, local events could all be examples that a trusted community governance process help to support.
 
 ****
 

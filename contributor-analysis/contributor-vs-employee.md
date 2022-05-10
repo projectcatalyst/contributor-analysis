@@ -24,7 +24,7 @@ description: >-
 
 ### Contributor
 
-* **Role** - Contributors select a [role](../contributor/roles/) however their time can be allocated anywhere that creates the most impact.
+* **Role** - Contributors select a [role](broken-reference) however their time can be allocated anywhere that creates the most impact.
 * **Compensation** - Term based payment (e.g. 3, 6, 12, 24 months). Could include bonuses based on impact provided. Other compensation approaches will need to be explored!
 * **Barriers to entry** - Part time contribution would have a low to no barrier to entry, full time contribution would require election by community.
 * **Time commitment** - Part time contributor can provide as little or as much time as preferred. To be a full time contributor a higher time commitment is expected. Time commitment is not tracked, objective remains to be producing maximum impact instead of their time input.

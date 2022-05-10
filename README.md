@@ -1,26 +1,17 @@
 ---
-description: Overview of the Catalyst Contributors
+description: Overview of analysis covered for full time contributors
 ---
 
 # Overview
 
-The Catalyst contributors are a group of community members who help to manage, support and improve the Catalyst ecosystem. The Catalyst ecosystem helps to govern the distribution of the Cardano treasury. Contributors help in a multitude of areas including working on infrastructure and tooling, supporting the community, improving processes or supporting other projects in the ecosystem.
+Contributors is the approach to bring together a group of community members to help manage, support and improve an ecosystem. Contributors can help in a multitude of areas including working on infrastructure and tooling, supporting the community, improving processes or supporting other projects in the ecosystem.
 
 
 
 ![](.gitbook/assets/contributors-league-small.png)
 
-A key objective for the Catalyst Contributors is to help create the best environment possible for full time contributors. A good environment will mean maximising the alignment and collaboration between these contributors so they are able to most effectively maximise their impact when working on improving the ecosystem.&#x20;
-
-
-
-{% embed url="https://www.youtube.com/embed/_wo8yXrX9oM" %}
-
 ### Contents
 
-* [**Contributor**](broken-reference) - Find out about what would be expected from a Catalyst contributor.
-* ****[**Contributor Guides**](broken-reference) - Guides on how to create a proposal as a contributor candidate and also how to assess candidate proposals.
-* ****[**Treasury**](broken-reference) - Details of how full time contributors would manage a Catalyst focussed treasury that would be used for rapid funding that supports the ecosystem.
-* [**Analysis**](broken-reference) - Break down of the contributor structure, analysis on differences between contributors and employees and thoughts towards future improvements.
-* [**Background**](broken-reference) - A background into the ecosystem and funding approaches, working structures and governance processes that led to the need to fund contributors as a step forward for the ecosystem.&#x20;
-* [**Proposals**](broken-reference) - List of all challenge setting proposals created for hiring contributors in the ecosystem.&#x20;
+* [**Contributor Analysis**](broken-reference) - Break down of the contributor structure, analysis on differences between contributors and employees and thoughts towards future improvements.
+* [**Salary Research**](broken-reference) - Research into average salaries for the different roles that are relevant to full time contributors.
+* [**Catalyst Process Analysis**](broken-reference) - Analysis around the Catalyst ecosystem and funding approaches, working structures and governance processes that led to the need to fund contributors as a step forward for the ecosystem.&#x20;
