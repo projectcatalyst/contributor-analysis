@@ -83,7 +83,7 @@ description: Research on average salaries across different roles
 
 
 
-****[**PayScale**](https://www.payscale.com)****
+****[**PayScale**](https://www.payscale.com/)****
 
 * ****[Administrator Coordinator](average-salaries.md#suggested-budget-ranges) - $46,669 (average)
 * [Communications Coordinator](https://www.payscale.com/research/US/Job=Communications\_Coordinator/Salary) - $45,736 (average)
@@ -119,7 +119,7 @@ description: Research on average salaries across different roles
 
 
 
-****[**SalaryExpert**](average-salaries.md#suggested-budget-ranges) **** - Data from [Economic research institute](https://www.erieri.com)
+****[**SalaryExpert**](average-salaries.md#suggested-budget-ranges) **** - Data from [Economic research institute](https://www.erieri.com/)
 
 * [Coordinator](https://www.salaryexpert.com/salary/job/coordinator/united-states) - $52,322 (average)
 * [Project Coordinator](https://www.salaryexpert.com/salary/job/project-coordinator/united-states) - $52,322 (average)

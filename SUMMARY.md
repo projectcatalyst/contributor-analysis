@@ -6,7 +6,8 @@
 
 * [Contributor vs Employee](contributor-analysis/contributor-vs-employee.md)
 * [Contributor Structure](contributor-analysis/contributor-structure.md)
-* [Contributor Future Improvements](contributor-analysis/contributor-future-improvements.md)
+* [Problems & Solutions](contributor-analysis/problems-and-solutions.md)
+* [Future Improvements](contributor-analysis/future-improvements.md)
 
 ## Salary Research
 
