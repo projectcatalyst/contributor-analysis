@@ -65,7 +65,7 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 
 
 
-### **Work:** Term based vs Full time
+### **Work:** Term based vs Permanent
 
 **Term based work** - A contributor could be funded for a fixed term, such as 6 months.
 
@@ -75,7 +75,7 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 
 ****
 
-**Full time work** - The contributor is paid to work full time and repeatedly gets funded until they leave or are dismissed from their duties.
+**Permanent work** - The contributor is paid to work full time with a full time contract and repeatedly gets funded until they leave or are dismissed from their duties.
 
 * Requires more assurances that the candidate will be an impactful contributor as if not a process for dismissal is needed.
 * Provides stability to the contributor which could attract more people into the roles as there is a safety in being able to produce an income.
