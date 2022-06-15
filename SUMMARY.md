@@ -12,6 +12,7 @@
 ## Ownership & Authority
 
 * [Individuals vs Political Parties vs Organisations](ownership-and-authority/individuals-vs-political-parties-vs-organisations.md)
+* [Catalyst Circle vs Catalyst Contributors](ownership-and-authority/catalyst-circle-vs-catalyst-contributors.md)
 
 ## Working Structures
 
