@@ -14,7 +14,7 @@ The initial Catalyst Circle was created to help with doing problem sensing in th
 
 **Advantages**
 
-* **Supports start of product development workflow** - The circle has helped add some structure to the process for identifying problems and suggesting potential solutions. This has helped bring the community together on collaboration on these problem sets. Unfortunately the benefit of Catalyst circle stops at the solution suggestions stage as this is where proposals must come in to fill the gaps. This will mean inheriting the proposal based funding issues covered in the funding approaches comparison.
+* **Supports start of product development workflow** - The circle has helped add some structure to the process for identifying problems and suggesting potential solutions. This has helped bring the community together on collaboration on these problem sets. Unfortunately the benefit of Catalyst circle stops at the solution suggestions stage as this is where proposals must come in to fill the gaps. This will mean inheriting the proposal based funding issues covered in the[ funding approaches](../catalyst-funding-process/funding-approaches.md) comparison.
 * **Transparent** - All meetings and information around circle meetings is recorded and public to the community making it easy for people to track what is going on and what happened.
 * **Community voted** - The community democratically votes on who is elected into the circle. The number of participants that vote on any Catalyst Circle member decision has to date been low and should be noted as an ongoing concern.
 * **Flexible** - The circle members can move their attention onto other concerns quickly that helps them maximise their impact when problem sensing.

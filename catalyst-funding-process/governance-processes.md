@@ -86,39 +86,6 @@ The implications of having governance from groups such as project teams versus i
 
 
 
-### Catalyst Circle
-
-The initial Catalyst Circle was created to help with identifying the problems that exist in the Catalyst ecosystem, which of those problems were highest priority and then the guidance and support of solutions to those problems. The circle was responsible for communicating these problems, solutions and all decisions to the community for feedback whilst keeping the whole process transparent.
-
-
-
-**Issues**
-
-* **Lower commitment** - Catalyst circle members do not need to work in the ecosystem full time which can limit the value they provide as there is no guarantee that they spend the remainder of their time in the ecosystem. This lower commitment brings in the potential issue of member knowledge gaps as there is an increased chance they may not be up to date or aware of everything happening in the ecosystem.
-* **Limited outcomes and execution** - The circle often does not deal with implementation details and due to its small structure would also practically not be a large enough team to execute solutions.
-* **Small governance size** - Less than ten people are generally involved in the Catalyst Circle process. This has limitations on availability of diverse knowledge and skills being involved. It also will often mean that governance is not representative of all the full time contributors in the ecosystem.
-* **Complexity** - Catalyst Circles are funded by proposals which results in the same complexities that come with proposal based funding. This included scattered funding, budget inaccuracies and added complexity from detailed proposal information.
-
-
-
-**Advantages**
-
-* **Supports a product development workflow** - The circle has helped add some structure to the process of identifying problems through to suggesting solutions which helps to bring the community together on building solutions. Unfortunately the benefit stops at the solution suggestions stage as this is where proposals must come in to fill the gaps which have the proposal based funding issues covered in the [funding approaches](funding-approaches.md).
-* **Transparent** - All meetings and information around circle meetings is recorded and public to the community.
-* **Community voted** - The community democratically votes on who is elected into the circle. The number of participants that vote on any Catalyst Circle member decision has to date been low and should be noted as an ongoing concern.
-* **Flexible** - The circle members can move their attention onto other concerns quickly that helps them maximise their impact.
-
-
-
-**Summary**
-
-* The Catalyst circle does not ensure that outcomes are delivered as the circle is not required to take problems through to solution.
-* The governance process is effective in helping with the start of a product development workflow which helps to organise and structure problems and potential solutions to consider within the ecosystem.
-* The Catalyst Circle would benefit from members needing to be full time in the ecosystem so that there is increased capability and confidence that any involved have the right knowledge and exposure to make well informed decisions. This full time commitment would mean these members become full time contributors.
-* The governance of Project Catalyst should not be limited to a handful of people due to the risks of having a lack of full representation of the ecosystem and the increased chance of gaps with knowledge or skills. Involving all full time contributors of the ecosystem would be more inclusive and representative of those who should have sufficient knowledge to govern changes to the ecosystem.
-
-
-
 ### Rapid funding
 
 Rapid funding is exploring how to make it possible for the Project Catalyst community to have faster access to funding compared to the current use of a more slow and laborious proposal process. For rapid funding to be effective it needs to consider where funds can be allocated, who is involved in that governance process and what accountability is needed.
