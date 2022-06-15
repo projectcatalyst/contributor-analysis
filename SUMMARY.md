@@ -9,6 +9,15 @@
 * [Problems & Solutions](contributor-analysis/problems-and-solutions.md)
 * [Future Improvements](contributor-analysis/future-improvements.md)
 
+## Ownership & Authority
+
+* [Individuals vs Political Parties vs Organisations](ownership-and-authority/individuals-vs-political-parties-vs-organisations.md)
+
+## Working Structures
+
+* [Full Time vs Part Time Contributors](working-structures/full-time-vs-part-time-contributors.md)
+* [Fluid vs Strict Team Structures](working-structures/fluid-vs-strict-team-structures.md)
+
 ## Salary Research
 
 * [Average Salaries](salary-research/average-salaries.md)
