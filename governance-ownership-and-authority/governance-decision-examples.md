@@ -1,12 +1,14 @@
-# Governance Processes
+---
+description: A list of governance decision examples with different things to consider
+---
+
+# Governance Decision Examples
 
 Creating an effective governance process is inherently difficult because of the need to involve participants that have different amounts of knowledge, skill and also different perspectives and cultural backgrounds. There are usually always trade offs with governance. A starting point for making a better governance systems is by thinking about the complexity of decisions, participants involved and actual governance process itself.
 
 
 
-### Governance decision examples
-
-There are a number of decisions that will need to be made within the Catalyst ecosystem. The following factors should be considered for each decision:
+There are a number of decisions that will need to be made within the Catalyst ecosystem. The following factors could be considered for each decision:
 
 * **Complexity** - How complex is the governance decision? What knowledge do the participants need to have?
 * **Timeliness** - How fast should a decision be made? Is the decision time sensitive?
@@ -16,7 +18,7 @@ There are a number of decisions that will need to be made within the Catalyst ec
 
 
 
-**1. Request for $2,000 of extra funds to support a hackathon event that received an unexpected amount of increased popularity nearer the event date**
+#### **1. Request for $2,000 of extra funds to support a hackathon event that received an unexpected amount of increased popularity nearer the event date**
 
 * **Complexity** - This decision is of low complexity, those that participate in voting need to understand the track record of the event and event organisers and how the money would be spent.
 * **Timeliness** - As the decision is time sensitive this is more suited to a rapid governance process from trusted community members who can manage some portion of the treasury for this type of purpose.
@@ -53,31 +55,3 @@ There are a number of decisions that will need to be made within the Catalyst ec
 * **Accountability** - If the change impacts the entire community it should generally include the wider community as participants. In this instance there would be no accountability on the voters. However there would be accountability on any full time contributors to ensure all the information required is available to the community about the implications of the changes being made so that all the facts are known.
 * **Participants** - The wider community should be involved as parameter changes will usually directly impact them.
 * **Feedback required** - Full time contributors in the ecosystem will need to collate information around the change and allow for the wider community to give feedback and then iterate and improve this information until an informed decision can be made.
-
-
-
-### Rapid funding
-
-Rapid funding is exploring how to make it possible for the Project Catalyst community to have faster access to funding compared to the current use of a more slow and laborious proposal process. For rapid funding to be effective it needs to consider where funds can be allocated, who is involved in that governance process and what accountability is needed.
-
-
-
-**Issues**
-
-* **Accountability** - If community members and projects are funded in a faster speed it makes it less suitable to try and involve the entire community in the decision. If the decision is delegated to a group of people then there’s a need for accountability as to who was involved in the decision and the reasons why the chose to fund or not fund a given request.
-* **Governance process** - The process used for governance for rapid funding needs to match concerns around timeliness and the amount of funding involved. To make well informed and faster decisions the participants who are delegated the responsibility will need to be fully informed on what is happening in the ecosystem and be aware of community members and contributors. Due to this full time contributors will be some of the most effective community members to use for this process due to having the most time being actively committed to the ecosystem.
-* **Decision complexity** - A difficulty for rapid funding is determining which governance decisions should be involved and excluded. Simple decisions such as supporting a local hackathon may be easy to include however when the funding request is larger the governance participants involved need to have guidelines and a feedback process in place to decide when to involve a larger amount of the community instead of executing the decision themselves.
-
-
-
-**Advantages**
-
-* **Speed** - Providing funding to projects and teams that needs it at a faster rate can help with increasing the speed of innovation and adoption of the ecosystem.
-* **Simple process** - The current proposal process for Project Catalyst is too slow for many small projects which leads to stagnation. By having a simple process these teams can have a governance process that is better suited for the smaller requests that are being made giving them more capacity to focus on making impact over the admin work involved with proposals.
-
-
-
-**Summary**
-
-* Full time contributors are well suited to supporting a rapid funding mechanism in Project Catalyst as their votes can be public and those involved be made accountable.
-* Guidelines and further thought is needed by those contributors on which things can be funded through that process and which can use the process but require a much larger feedback process with the community.

@@ -9,10 +9,12 @@
 * [Problems & Solutions](contributor-analysis/problems-and-solutions.md)
 * [Future Improvements](contributor-analysis/future-improvements.md)
 
-## Ownership & Authority
+## Governance, Ownership & Authority
 
-* [Individuals vs Political Parties vs Organisations](ownership-and-authority/individuals-vs-political-parties-vs-organisations.md)
-* [Catalyst Circle vs Catalyst Contributors](ownership-and-authority/catalyst-circle-vs-catalyst-contributors.md)
+* [Individuals vs Political Parties vs Organisations](governance-ownership-and-authority/individuals-vs-political-parties-vs-organisations.md)
+* [Catalyst Circle vs Catalyst Contributors](governance-ownership-and-authority/catalyst-circle-vs-catalyst-contributors.md)
+* [Rapid Funding](governance-ownership-and-authority/rapid-funding.md)
+* [Governance Decision Examples](governance-ownership-and-authority/governance-decision-examples.md)
 
 ## Working Structures
 
@@ -33,7 +35,6 @@
   * [Interconnected Services](catalyst-funding-process/working-structures/interconnected-services.md)
   * [Product Development Workflow](catalyst-funding-process/working-structures/product-development-workflow.md)
   * [Costs Of Competition](catalyst-funding-process/working-structures/costs-of-competition.md)
-* [Governance Processes](catalyst-funding-process/governance-processes.md)
 
 ## 🔗 Links
 
