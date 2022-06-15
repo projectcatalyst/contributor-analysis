@@ -56,36 +56,6 @@ There are a number of decisions that will need to be made within the Catalyst ec
 
 
 
-### Governance using groups vs individuals
-
-The implications of having governance from groups such as project teams versus individuals is an important topic to consider.
-
-
-
-**Groups**
-
-* **Vote weighting** - If vote weighting was 1 group 1 vote then there is an incentive to create multiple groups to manipulate a given vote. If it becomes 1 individual 1 vote under a group format then they have the incentive to increase the number of people in their group. 1 group 1 vote will rarely make sense as one large group shouldn’t have significantly less voting power than a small group.
-* **Participants** - If vote weighting is based on individuals under a group dynamic then the group needs regulation on how individuals join that group otherwise it becomes easy to manipulate the governance process.
-* **Competition** - If groups compete in anyway, especially in a financial way, then an incentive can emerge to discredit other groups when making decisions and interacting with others.
-* **Groupthink** - Individuals forming under a group making decisions about policies or funding could more easily suffer from the influences of [groupthink](https://en.wikipedia.org/wiki/Groupthink).
-
-
-
-**Individuals**
-
-* **Vote weighting** - Each individual will have equal weighting for governance.
-* **Participants** - When concerning individuals as voting participants the main concern is which individuals should be involved in a given governance decision. Sometimes using a subset of the wider community for an ecosystem can make sense for certain decisions. For instance you may want to ask any community member that has done an assessment using two approaches to vote on which they preferred. Verifying the previous involvement of the individual in assessments here would be important for improving the quality of the answer.
-* **Accountability** - Accountability is a key aspect for governance as any decision will need to determine who may be accountable for any part of that decision or information leading up to the decision. It should also be clear whether individuals can be anonymous or not due to the need for accountability.
-
-
-
-**Summary**
-
-* Doing governance using groups over individuals introduces a number of potential risks and ways a governance system could be gamed. If this approach was to be applied to any governance system thorough planning and analysis is required on the policies and incentives involved.
-* Individuals is often used for governance as it makes for a fairer democratic process. Some key things to consider for individuals within governance processes is who should be involved and what accountability they would have when voting on decisions.
-
-
-
 ### Rapid funding
 
 Rapid funding is exploring how to make it possible for the Project Catalyst community to have faster access to funding compared to the current use of a more slow and laborious proposal process. For rapid funding to be effective it needs to consider where funds can be allocated, who is involved in that governance process and what accountability is needed.

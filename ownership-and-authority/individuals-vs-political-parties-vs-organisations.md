@@ -55,7 +55,16 @@ What is the process to be elected and take on ownership and authority over a sys
 **Consensus approach**
 
 * **1 person 1 vote** - Each individual has one vote. Relevant for individuals or a political party representative approach.
-* **1 organisation 1 vote** - Each organisation has one vote. If organisation votes are treated equally without any consideration for the number of individuals this can cause situations where a majority of people vote one way but the outcome does not reflect that consensus. As an example, consider organisation sizes of 40, 30 and 30 members. Votes are cast for and against with 40 - 0, 10 - 20 and 10 - 20. This means two organisations voted no and one yes. The result has an outcome of no even though 60 out of 100 participants voted yes.
+* **1 organisation 1 vote** - Each organisation has one vote. If organisation votes are treated equally without any consideration for the number of individuals this can cause situations where a majority of people vote one way but the outcome does not reflect that consensus. As an example, consider organisation sizes of 40, 30 and 30 members. Votes are cast for and against with 40 - 0, 10 - 20 and 10 - 20. This means two organisations voted no and one yes. The result has an outcome of no even though 60 out of 100 participants voted yes. Another issue if there was a 1 organisation 1 vote approach is it creates an incentive to create more organisations to attain more control so preventative measures would be needed which increases the governance complexity.
+
+****
+
+**Accountability**
+
+Accountability is a key aspect for governance as any decision outcome will need to produce a receipt of who is accountable for any part of that decision or the information used leading up to that decision.&#x20;
+
+* **Individuals** - Individuals voting would put their identity behind each vote they make which makes them accountable for the decisions they make.
+* **Organisations** - Individuals voting would put their identity behind each vote they make and it will be up to the organisation to ensure that information becomes public. One issue with organisations with accountability is the members vote can be obscured and more hidden under an organisation vote. An organisation vote also offers individuals more ways to pass over blame by blaming groupthink dynamic or internal pressures. This reduces accountability to the individual.
 
 
 

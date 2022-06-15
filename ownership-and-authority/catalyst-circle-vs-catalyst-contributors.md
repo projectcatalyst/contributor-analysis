@@ -53,5 +53,5 @@ Catalyst contributors fixes all of the problems with Catalyst circle that are me
 
 ### **Summary**
 
-* The Catalyst circle has a number of issues when considering how ownership and authority can be passed over to the community for the Catalyst process that make it less suitable as a path to passing over ownership and authority to the community.
-* Catalyst contributors offers an alternative that improves upon many of the advantages that exist with Catalyst circle and also removes all of the issues mentioned. Catalyst contributors offers a scalable and simple approach to pass ownership and authority over to the community to support and improve the Catalyst ecosystem.
+* The Catalyst circle has a number of issues when considering how ownership and authority of the Catalyst system and processes could be handed over to the community.
+* Catalyst contributors offers an alternative approach that improves upon many of the advantages that exist with Catalyst circle and also removes all of the issues mentioned. The advantages offered by Catalyst contributors produce a scalable and simple approach to pass ownership and authority over to the community.
