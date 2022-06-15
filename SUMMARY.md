@@ -20,6 +20,7 @@
 
 * [Full Time vs Part Time Contributors](working-structures/full-time-vs-part-time-contributors.md)
 * [Fluid vs Strict Team Structures](working-structures/fluid-vs-strict-team-structures.md)
+* [Costs Of Competition](working-structures/costs-of-competition.md)
 
 ## Salary Research
 
@@ -34,7 +35,6 @@
 * [Working Structures](catalyst-funding-process/working-structures/README.md)
   * [Interconnected Services](catalyst-funding-process/working-structures/interconnected-services.md)
   * [Product Development Workflow](catalyst-funding-process/working-structures/product-development-workflow.md)
-  * [Costs Of Competition](catalyst-funding-process/working-structures/costs-of-competition.md)
 
 ## 🔗 Links
 
