@@ -81,7 +81,7 @@ How should elected representative doing work for the ecosystem be paid?
 
 * **Individuals** - Individuals who seek to be contributors in each cohort can change each and every funding round. An individual is not multi generational which prevents stagnation in who is involved in being a contributor over the longer term. Improving decentralisation when using individuals for ownership and authority over certain systems and processes can include increasing the effort to encourage a diverse range of backgrounds and locations from candidates.
 * **Political parties** - Political parties are multi generational and would compete with other parties. Due to this the use of political parties can cause centralisation towards a handful of groups that most effectively represent an ideology or views. This can lead to difficulty in similar parties forming as a form of competition once they are well known and established.
-* Organisations - Organisations are multi generational and would compete with each other for ownership and authority. Similar to political parties, organisations would also develop a brand in the community in how they help to govern the systems and process. This could get them repeatedly elected and lead to stagnation in changing elected representatives.
+* **Organisations** - Organisations are multi generational and would compete with each other for ownership and authority. Similar to political parties, organisations would also develop a brand in the community in how they help to govern the systems and process. This could get them repeatedly elected and lead to stagnation in changing elected representatives.
 
 
 
