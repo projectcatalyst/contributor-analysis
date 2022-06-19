@@ -13,5 +13,7 @@ Contributors is the approach to bring together a group of community members to h
 ### Contents
 
 * [**Contributor Analysis**](broken-reference) - Break down of the contributor structure, analysis on differences between contributors and employees and thoughts towards future improvements.
+* [**Governance, Ownership & Authority**](broken-reference) - Exploring the how contributors can be an effective path for governance and also can support systems and processes by taking authority and ownership over them.
+* [**Working structures**](broken-reference) - Exploring implications of how contributors work together and the costs of competition
 * [**Salary Research**](broken-reference) - Research into average salaries for the different roles that are relevant to full time contributors.
 * [**Catalyst Process Analysis**](broken-reference) - Analysis around the Catalyst ecosystem and funding approaches, working structures and governance processes that led to the need to fund contributors as a step forward for the ecosystem.&#x20;
