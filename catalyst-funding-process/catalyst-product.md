@@ -28,7 +28,7 @@ A number of core services exist in Catalyst that make the governance of the trea
 
 
 
-![Core user flows for Catalyst ](<../.gitbook/assets/catalyst-components (3).png>)
+![Core user flows for Catalyst ](broken-reference)
 
 
 

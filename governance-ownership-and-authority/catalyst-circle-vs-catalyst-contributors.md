@@ -6,6 +6,8 @@ description: >-
 
 # Catalyst Circle vs Catalyst Contributors
 
+![](../.gitbook/assets/catalyst-circle-catalyst-contributors.png)
+
 ### Catalyst circle
 
 The initial Catalyst Circle was created to help with doing problem sensing in the Catalyst ecosystem. For the problems identified they help to prioritise them and then provide any guidance and support towards solutions to those problems led by the community. The circle was responsible for communicating these problems, solutions and all decisions to the community for feedback in a transparent manner.
