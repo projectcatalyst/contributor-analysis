@@ -6,6 +6,8 @@ description: >-
 
 # Individuals vs Political Parties vs Organisations
 
+![](../.gitbook/assets/individual-political-party-organisation.png)
+
 ### Ownership & Authority Options&#x20;
 
 How can ownership & authority be handed over to the community for certain systems and processes that need to be developed and supported?

@@ -6,9 +6,7 @@ description: >-
 
 # Fluid vs Strict Team Structures
 
-### What teams?
-
-Catalyst and Cardano contributors are a model to allow people from the community to be paid full time to contribute towards complex ecosystems. These ecosystems have a number of areas that they could focus their efforts on to support or improve the systems and processes involved.
+Catalyst and Cardano contributors provides a model that allows people from the community to be paid full time to contribute towards complex ecosystems. These ecosystems have a number of areas that they could focus their efforts on to support or improve the systems and processes involved.
 
 
 
