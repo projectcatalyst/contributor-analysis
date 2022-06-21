@@ -16,4 +16,4 @@ The idea to fund contributors was conceived as a way to resolve the issues aroun
 * [**Catalyst Product**](catalyst-product.md) - Overview of Catalyst including the core and secondary services.
 * ****[**Funding Approaches**](funding-approaches.md) - A comparison between proposal and contributor based funding.
 * [**Working Structures**](working-structures/) - Comparisons between different working structures that could emerge in Catalyst and analysis on which approach will likely create the best outcomes.
-* [**Governance Processes**](../governance-ownership-and-authority/governance-decision-examples.md) **** - Analysis on a number of different Catalyst governance decision examples as well as analysis on the existing Catalyst Circle process and the need for a rapid funding process.
+* [**Governance Processes**](../stewardship-and-delegated-authority/governance-decision-examples.md) **** - Analysis on a number of different Catalyst governance decision examples as well as analysis on the existing Catalyst Circle process and the need for a rapid funding process.

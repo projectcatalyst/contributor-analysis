@@ -6,8 +6,6 @@ description: >-
 
 # Full Time vs Part Time Contributors
 
-
-
 There are a number of considerations to make when considering the use of either full time contributors, part time contributors or a mixture of both.
 
 
@@ -46,7 +44,7 @@ There are a number of considerations to make when considering the use of either 
 **Issues**
 
 * Decreases diversity of participation - Using full time contributors means using more capital to hire a smaller number of contributors. This risks decreasing the diversity of participation for situations where only a smaller number of full time contributors can be hired. This could negatively impact the different considerations that are needed in effective decision making.
-* More centralised decision making - Paying for less contributors by making them full time will mean less people are involved in the internal decision making decisions. This increases the importance of the contributors who are selected for this decision due to those contributors having an increased amount of ownership and authority.
+* More centralised decision making - Paying for less contributors by making them full time will mean less people are involved in the internal decision making decisions. This increases the importance of the contributors who are selected for this decision due to those contributors having an increased amount of stewardship and delegated authority.
 
 
 
@@ -70,7 +68,7 @@ Cardano is a blockchain with global ambitions. Even in the early stages of gover
 
 **Important governance decisions**
 
-IOG currently manages much of the systems and processes involved in the operation of Catalyst and Cardano. Handing this ownership and authority over to the community requires a stable base of competent contributors who can effectively engage in those decisions. Whether this is a parameter change or a new feature added into the Catalyst process - these decisions have large implications on millions of dollars worth of capital. Due to the importance of these decisions this environment leans more heavily on the need for full time contributors who would be able to have more ability to have the full context required to support these governance decisions. This involves being part of the decision making process but also being able to competently produce the information required to help better inform the wider community on the governance decisions they make in the ecosystem.
+IOG currently manages much of the systems and processes involved in the operation of Catalyst and Cardano. Handing this stewardship and increasing delegated authority over to the community requires a stable base of competent contributors who can effectively engage in those decisions. Whether this is a parameter change or a new feature added into the Catalyst process - these decisions have large implications on millions of dollars worth of capital. Due to the importance of these decisions this environment leans more heavily on the need for full time contributors who would be able to have more ability to have the full context required to support these governance decisions. This involves being part of the decision making process but also being able to competently produce the information required to help better inform the wider community on the governance decisions they make in the ecosystem.
 
 
 

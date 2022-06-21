@@ -1,7 +1,8 @@
 ---
 description: >-
   Comparing Catalyst circle and Catalyst contributors as potential approaches to
-  pass ownership and authority to for supporting and improving Catalyst
+  pass stewardship to and delegate authority for supporting and improving
+  Catalyst
 ---
 
 # Catalyst Circle vs Catalyst Contributors
@@ -35,7 +36,7 @@ The initial Catalyst Circle was created to help with doing problem sensing in th
 
 ### Catalyst contributors
 
-Catalyst contributors fixes all of the problems with Catalyst circle that are mentioned above and also improves upon most of the advantages. Catalyst contributors offers an effective path for the ownership and authority of Catalyst systems and processes to be handed over to the community.
+Catalyst contributors fixes all of the problems with Catalyst circle that are mentioned above and also improves upon most of the advantages. Catalyst contributors offers an effective path for the stewardship and delegated authority of Catalyst systems and processes to be handed over to the community.
 
 
 
@@ -55,5 +56,5 @@ Catalyst contributors fixes all of the problems with Catalyst circle that are me
 
 ### **Summary**
 
-* The Catalyst circle has a number of issues when considering how ownership and authority of the Catalyst system and processes could be handed over to the community.
-* Catalyst contributors offers an alternative approach that improves upon many of the advantages that exist with Catalyst circle and also removes all of the issues mentioned. The advantages offered by Catalyst contributors produce a scalable and simple approach to pass ownership and authority over to the community.
+* The Catalyst circle has a number of issues when considering how stewardship and delegated authority of the Catalyst system and processes could be handed over to the community.
+* Catalyst contributors offers an alternative approach that improves upon many of the advantages that exist with Catalyst circle and also removes all of the issues mentioned. The advantages offered by Catalyst contributors produce a scalable and simple approach to pass stewardship and delegated authority over to the community.

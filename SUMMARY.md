@@ -9,12 +9,12 @@
 * [Problems & Solutions](contributor-analysis/problems-and-solutions.md)
 * [Future Improvements](contributor-analysis/future-improvements.md)
 
-## Governance, Ownership & Authority
+## Stewardship & Delegated Authority
 
-* [Individuals vs Political Parties vs Organisations](governance-ownership-and-authority/individuals-vs-political-parties-vs-organisations.md)
-* [Catalyst Circle vs Catalyst Contributors](governance-ownership-and-authority/catalyst-circle-vs-catalyst-contributors.md)
-* [Rapid Funding](governance-ownership-and-authority/rapid-funding.md)
-* [Governance Decision Examples](governance-ownership-and-authority/governance-decision-examples.md)
+* [Individuals vs Political Parties vs Organisations](stewardship-and-delegated-authority/individuals-vs-political-parties-vs-organisations.md)
+* [Catalyst Circle vs Catalyst Contributors](stewardship-and-delegated-authority/catalyst-circle-vs-catalyst-contributors.md)
+* [Rapid Funding](stewardship-and-delegated-authority/rapid-funding.md)
+* [Governance Decision Examples](stewardship-and-delegated-authority/governance-decision-examples.md)
 
 ## Working Structures
 
