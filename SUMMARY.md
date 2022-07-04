@@ -7,6 +7,7 @@
 * [Contributor vs Employee](contributor-analysis/contributor-vs-employee.md)
 * [Contributor Structure](contributor-analysis/contributor-structure.md)
 * [Problems & Solutions](contributor-analysis/problems-and-solutions.md)
+* [Catalyst vs Cardano vs Community Contributors](contributor-analysis/catalyst-vs-cardano-vs-community-contributors.md)
 * [Future Improvements](contributor-analysis/future-improvements.md)
 
 ## Stewardship & Delegated Authority
