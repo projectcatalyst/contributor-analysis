@@ -26,9 +26,7 @@ A number of core services exist in Catalyst that make the governance of the trea
 8. **Rewarding** - Proposals with the most upvotes start receiving funding on a monthly basis.&#x20;
 9. **Reporting** - Proposers submit progress and KPI reports to highlight progress being made. Reporting is a requirement for proposers to continue to receive funding each month.
 
-
-
-![Core user flows for Catalyst ](broken-reference)
+![Core user flows for Catalyst ](<../.gitbook/assets/catalyst-components (1).png>)
 
 
 
