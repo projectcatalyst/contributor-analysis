@@ -72,7 +72,7 @@ Accountability is a key aspect for governance as any decision outcome will need 
 
 **Paying elected representatives**
 
-How should elected representative doing work for the ecosystem be paid?
+How should elected representatives doing work for the ecosystem be paid?
 
 * **Individual** - Can be pulled from the protocol directly based upon the salary of the individual for their role.
 * **Organisations** - Total payment pulled from the protocol by the organisation. Increases complexity due to the need for governance structures in organisation to then distribute funds to individuals. Alternatively members could also still work under an organisation control structure but be paid directly as individuals instead via the protocol.
@@ -81,16 +81,16 @@ How should elected representative doing work for the ecosystem be paid?
 
 **Issues around monopolies & centralisation**
 
-* **Individuals** - Individuals who seek to be contributors in each cohort can change each and every funding round. An individual is not multi generational which prevents stagnation in who is involved in being a contributor over the longer term. Improving decentralisation when using individuals for stewardship and delegated authority over certain systems and processes can include increasing the effort to encourage a diverse range of backgrounds and locations from candidates.
-* **Political parties** - Political parties are multi generational and would compete with other parties. Due to this the use of political parties can cause centralisation towards a handful of groups that most effectively represent an ideology or views. This can lead to difficulty in similar parties forming as a form of competition once they are well known and established.
-* **Organisations** - Organisations are multi generational and would compete with each other for stewardship and delegated authority. Similar to political parties, organisations would also develop a brand in the community in how they help to govern the systems and process. This could get them repeatedly elected and lead to stagnation in changing elected representatives.
+* **Individuals** - Individuals who seek to be contributors in each cohort can change each and every funding round. An individual is not multi generational which prevents stagnation in who is involved in being a contributor over the longer term. Increasing efforts to encourage a diverse range of backgrounds and locations from candidates will help to improve the decentralisation of a given cohort of contributors.
+* **Political parties** - Political parties are often multi generational and would compete with other parties. Due to this the use of political parties can cause centralisation towards a handful of groups that most effectively represent an ideology or certain views. This can lead to difficulty in similar parties forming to compete with more well known and established parties.
+* **Organisations** - Organisations are often multi generational and would compete with each other for stewardship and delegated authority. Similar to political parties, organisations would also develop a brand in the community in how they help to govern the systems and process. This could get them repeatedly elected and lead to stagnation in changing the elected representatives that run those organisations.
 
 
 
 **Governance factors**
 
 * **Group think** - Being part of a political party or organisation can increase the risk of [group think](https://en.wikipedia.org/wiki/Groupthink) when making decisions. This factor can lead to a reduction in independent critical thinking.
-* **Voting outcome stagnation** - One issue with political parties and organisations is it can cause stagnation in the voting outcome. Political parties and organisations can exist across multiple generations. This means that as they compete for stewardship and delegated authority there will be winners and losers. The winners can build an ongoing brand with familiar representation of certain ideologies or values. Stagnation in the outcome can lead to slower rates of change or prevention of new innovations from new entrants that face difficulty competing with existing and dominant players in the ecosystem.
+* **Voting outcome stagnation** - One issue with political parties and organisations is it can cause stagnation in the voting outcome. Political parties and organisations can exist across multiple generations. This means that as they compete for stewardship and delegated authority there will be winners and losers. The winners can build an ongoing brand with familiar representation of certain ideologies, values or approaches. Stagnation in voting outcomes could lead to slower rates of change and prevention of new innovations from new entrants as they would face difficulty competing with existing well known groups in the ecosystem.
 
 
 
@@ -125,5 +125,5 @@ Electing a cohort of individuals to take on stewardship and delegated authority 
 ### Summary
 
 * Organisations add complexity and control risks - Using organisations for stewardship with delegated authority over supporting and developing parts of the ecosystem presents a number of issues surrounding how consensus is reached between organisations, how people are added or removed from those organisations and the increased potential for stagnation in control due to some organisations becoming well established.
-* Political parties are not necessary - There is little need for political parties to form around ideologies in the context of using contributors to support Catalyst or Cardano. These contributors are more functionally focussed on improving the ecosystem, have no control over the community and do not determine how Cardano treasury funding is distributed. Political parties would introduce an unnecessary complexity for contributors.
-* Elected individuals offers the most simple and effective approach - Electing a group of individuals offers the most simple and effective path to giving stewardship to elected members with delegated authority to support and improve the ecosystem. The process can be simple and clear for the community and use a similar approach to how proposals are currently submitted.
+* Political parties are not necessary - There is little need for political parties to form around ideologies in the context of using contributors to support Catalyst or Cardano. These contributors are more functionally focussed on improving the ecosystem, have no control over the community and do not determine how Cardano treasury funding is distributed. Using political parties as a structural approach would introduce unnecessary complexity.
+* Elected individuals offers the most simple and effective approach - Electing a group of individuals offers the most simple and effective path to giving stewardship to elected members with delegated authority to support and improve the ecosystem. The process can be simple and clear for the community and can use a similar approach to how proposals are currently submitted.
