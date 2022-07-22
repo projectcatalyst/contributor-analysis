@@ -30,7 +30,7 @@ The product development workflow that the contributors use to improve and mainta
 
 **Contributor focussed dReps**
 
-dReps is offering a way for community members to delegate their voting power to other people who want to be representatives in the ecosystem. dReps could provide an effective solution for people who do not want to do the research and analysis to come to conclusions on which contributors to elect. Some dReps may decide to focus entirely on understanding the candidates who are applying to become full time contributors.
+dReps is offering a way for community members to delegate their voting power to other people who want to be representatives in the ecosystem. dReps could provide an effective solution for people who do not want to do the research and analysis to come to conclusions on which contributors to elect. Some dReps may decide to focus entirely on understanding the candidates who are applying to become full time contributors. dReps could be an effective way to provide comparisons between candidates that voters could then use to vote themselves if they didn't want to delegate their voting power but did want to get a mixture of perspectives from representatives before making their own voting decisions.
 
 ****
 
