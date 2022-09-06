@@ -4,11 +4,11 @@ description: >-
   contributors in the ecosystem using sensible requirements and policies.
 ---
 
-# Contributor Structure
+# Contributor Approaches
 
 ### What is a contributor?
 
-A contributor is anyone who helps to support, improve or maintain the Cardano ecosystem. For example a contributor could be giving support to people to improve their proposals, a contributor may help with improving the tooling used for assessing proposals or a contributor also could help with managing the data that comes out of the voting process.
+A contributor is anyone who helps to support, improve or maintain the Cardano ecosystem. For example a contributor could support people with improving their proposals, help with improving the tooling used for assessing proposals or could help with managing the data that comes out of the voting process.
 
 
 

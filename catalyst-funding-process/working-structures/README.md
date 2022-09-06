@@ -8,7 +8,7 @@ The [product development workflow](product-development-workflow.md) is a fundame
 
 
 
-When comparing different working structures for Catalyst it is also important to note what the potential [costs of competition](../../working-structures/costs-of-competition.md) are and how this impacts what approaches are sensible when iterating and improving the catalyst ecosystem.
+When comparing different working structures for Catalyst it is also important to note what the potential [costs of competition](../costs-of-competition.md) are and how this impacts what approaches are sensible when iterating and improving the catalyst ecosystem.
 
 ****
 

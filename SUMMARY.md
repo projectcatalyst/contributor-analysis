@@ -2,26 +2,22 @@
 
 * [Overview](README.md)
 
-## Contributor Analysis
+## Comparisons
 
-* [Contributor vs Employee](contributor-analysis/contributor-vs-employee.md)
-* [Contributor Structure](contributor-analysis/contributor-structure.md)
-* [Problems & Solutions](contributor-analysis/problems-and-solutions.md)
-* [Catalyst vs Cardano vs Community Contributors](contributor-analysis/catalyst-vs-cardano-vs-community-contributors.md)
-* [Future Improvements](contributor-analysis/future-improvements.md)
+* [Catalyst vs Cardano vs Community Contributors](comparisons/catalyst-vs-cardano-vs-community-contributors.md)
+* [Catalyst Circle vs Catalyst Contributors](comparisons/catalyst-circle-vs-catalyst-contributors.md)
 
-## Stewardship & Delegated Authority
+## Contributor Governance
 
-* [Individuals vs Political Parties vs Organisations](stewardship-and-delegated-authority/individuals-vs-political-parties-vs-organisations.md)
-* [Catalyst Circle vs Catalyst Contributors](stewardship-and-delegated-authority/catalyst-circle-vs-catalyst-contributors.md)
-* [Rapid Funding](stewardship-and-delegated-authority/rapid-funding.md)
-* [Governance Decision Examples](stewardship-and-delegated-authority/governance-decision-examples.md)
+* [Rapid Funding](contributor-governance/rapid-funding.md)
+* [Governance Decision Examples](contributor-governance/governance-decision-examples.md)
 
-## Working Structures
+## Contributor Approaches
 
-* [Full Time vs Part Time Contributors](working-structures/full-time-vs-part-time-contributors.md)
-* [Fluid vs Strict Team Structures](working-structures/fluid-vs-strict-team-structures.md)
-* [Costs Of Competition](working-structures/costs-of-competition.md)
+* [Full Time vs Part Time Contributors](contributor-approaches/full-time-vs-part-time-contributors.md)
+* [Fluid vs Strict Team Structures](contributor-approaches/fluid-vs-strict-team-structures.md)
+* [Individuals vs Political Parties vs Organisations](contributor-approaches/individuals-vs-political-parties-vs-organisations.md)
+* [Contributor Approaches](contributor-approaches/contributor-approaches.md)
 
 ## Salary Research
 
@@ -32,10 +28,17 @@
 * [Overview](catalyst-funding-process/overview.md)
 * [Catalyst Goals](catalyst-funding-process/catalyst-goals.md)
 * [Catalyst Product](catalyst-funding-process/catalyst-product.md)
-* [Funding Approaches](catalyst-funding-process/funding-approaches.md)
 * [Working Structures](catalyst-funding-process/working-structures/README.md)
   * [Interconnected Services](catalyst-funding-process/working-structures/interconnected-services.md)
   * [Product Development Workflow](catalyst-funding-process/working-structures/product-development-workflow.md)
+* [Costs Of Competition](catalyst-funding-process/costs-of-competition.md)
+
+## Contributor Funding Model
+
+* [Idea vs Contributor Proposals](contributor-funding-model/idea-vs-contributor-proposals.md)
+* [Contributor vs Employee](contributor-funding-model/contributor-vs-employee.md)
+* [Problems & Solutions](contributor-funding-model/problems-and-solutions.md)
+* [Future Improvements](contributor-funding-model/future-improvements.md)
 
 ## 🔗 Links
 
