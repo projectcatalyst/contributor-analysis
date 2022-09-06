@@ -7,26 +7,30 @@ description: >-
 
 # Idea vs Contributor Proposals
 
-## Funding goals
+### Factors to consider&#x20;
 
-The following are some sensible high level goals Catalyst would want to achieve from its funding approach.
+The following are some important factors to consider for an approach used to incentivise the community to support and improve the Catalyst or Cardano ecosystems.
 
 * **Impactful** - A key outcome for any funding approach will be that it leads to the best outcomes and creates high impact for the ecosystem.
-* **Cost effective** - The funding approach should be cost effective for those seeking funding by ensuring there are minimum admin overheads. Less time wasted, costs or admin overhead means proposers can spend more time executing. Cost effective also means helping with preventing duplication and wasted resource allocation to low impact tasks.
+* **Cost effective** - The funding approach should be cost effective. There should be minimum admin overheads for those seeking funding. Less time wasted, costs or admin overhead means proposers can spend more time executing. A cost effective approach also means helping with preventing duplication and reducing wasted resource allocation to low impact tasks.
 * **Timely** - Funding should be provided to those that need it in a timely manner using governance methods that include the right amount of stakeholders to make that decision for the given budget size requested.
-* **Sensible** - A funding approach should be sensible in terms of requesting the right amount of information from the proposer based on the project and amount of funding requested. For smaller projects a smaller governance process and simpler amount of information is likely more suited. For larger projects a better understanding of the milestones, success outcomes, budget and auditability of the proposal should be provided.
+* **Concise requirements** - A funding approach should support being be sufficiently concise in requesting the right amount of information from the proposer based on the project and amount of funding requested. For smaller projects a smaller governance process and simpler amount of information is likely more suited. For larger projects a better understanding of the milestones, success outcomes, budget and auditability of the proposal should be provided.
 
 
 
-## Idea funding
+## Idea proposal funding
 
 The process consists of individuals or teams creating proposals that detail out a solution to a defined problem. A proposal will include what they are trying to achieve, a roadmap, budget, team, success metrics and how they will make sure it is auditable. To date Project Catalyst has so far solely used idea proposal based funding.
+
+
 
 ### Advantages
 
 * **Clarity** - Ideas offer full clarity to the whole community on the exact solution that will be implemented. This approach is great for community members who are highly involved and want to interact, collaborate and help govern which ideas should be funded.
 * **Detailed plan** - Ideas provide a way for teams to provide a detailed plan for how something will be achieved and why it is being implemented.
 * **Fully researched** - Ideas can provide as much research as needed to justify why a solution is the correct approach. This approach is great for community members who are highly involved and want to understand the full background behind the idea.
+
+
 
 ### Issues
 
@@ -63,7 +67,11 @@ The process consists of individuals or teams creating proposals that detail out 
 
 
 
-## Contributor funding
+## Contributor proposal funding
+
+Contributing funding would consist of individuals creating proposals that outline their professional background, contributions to the ecosystem and how they intend to support the ecosystem. The community would determine which contributors get selected to be funded and work for the protocol.
+
+
 
 ### Advantages
 
@@ -95,6 +103,8 @@ The process consists of individuals or teams creating proposals that detail out 
 * **Effective community support** - Funded contributors would be able to become a better nucleus of support for the community and help with answering questions and technical issues as they become increasingly familiar with the entire ecosystem.
 * **Supporting proposals** - Contributors are incentivised to support Catalyst focussed proposals and help where possible. This encourages innovation outside the team and maximises impact through collaboration and support.
 * **Increased education** - More full time contributors helps with education on the entire ecosystem due to more involvement. Increased awareness and experience leads to creating better support and education resources for the community.
+
+
 
 ### Issues
 
