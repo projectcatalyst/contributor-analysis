@@ -23,16 +23,6 @@
 
 * [Average Salaries](salary-research/average-salaries.md)
 
-## Catalyst Funding Process
-
-* [Overview](catalyst-funding-process/overview.md)
-* [Catalyst Goals](catalyst-funding-process/catalyst-goals.md)
-* [Catalyst Product](catalyst-funding-process/catalyst-product.md)
-* [Working Structures](catalyst-funding-process/working-structures/README.md)
-  * [Interconnected Services](catalyst-funding-process/working-structures/interconnected-services.md)
-  * [Product Development Workflow](catalyst-funding-process/working-structures/product-development-workflow.md)
-* [Costs Of Competition](catalyst-funding-process/costs-of-competition.md)
-
 ## Contributor Funding Model
 
 * [Idea vs Contributor Proposals](contributor-funding-model/idea-vs-contributor-proposals.md)
