@@ -32,7 +32,7 @@ Those helping maintain and improve the ecosystem will be most impactful if the e
 
 **Collaborative**
 
-Contributors improving the ecosystem will be most impactful when they are able to share ideas, skills and knowledge so they are able to make the most amount of impact possible. The better collaboration and synergy between contributors the faster trust and rapport can be built up that supports more rapid innovation.
+Contributors improving the ecosystem will be most impactful when they are able to share ideas, skills and knowledge so they are able to make the most amount of impact possible. The better collaboration and synergy between contributors the faster trust and rapport can be built up that supports more rapid innovation. Collaboration can also help with bringing more alignment and agreement on complex product and ecosystem issues. More alignment from collaboration will help increase consistencies in user experience, technical implementations (data models, APIs, integrations) and processes.
 
 
 
