@@ -6,9 +6,9 @@ description: >-
 
 # Contributor Responsibilities
 
-**Collaborate**
+**Coordinate**
 
-Contributors can be an effective group for bringing the community together for events and discussion about important topics, changes and problems. This collaboration can also lead to helping align efforts and reduce duplication and encouraging open source solutions to maximise ecosystem collaboration between project teams.
+Contributors can be an effective group for bringing the community together for events and discussion about important topics, changes and problems. Coordination across the ecosystem should also mean trying to align efforts, reduce duplication and encourage open source solutions to maximise collaboration across the ecosystem.
 
 
 

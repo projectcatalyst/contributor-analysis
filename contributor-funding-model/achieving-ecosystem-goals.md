@@ -6,8 +6,6 @@ description: How can the contributor funding model help with achieving ecosystem
 
 A contributor funding model can help with achieving the goals of creating ecosystems that are scalable, resilient, efficient, high quality, maintainable and community owned.
 
-The[ Catalyst Product Development documentation](https://docs.catalystcontributors.org/catalyst-product-development/funding-process/catalyst-ecosystem-goals) gives an example of how these high level ecosystem goals apply and why they are important.
-
 
 
 **Scalable**
