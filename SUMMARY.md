@@ -8,7 +8,7 @@
 * [Achieving Ecosystem Goals](contributor-funding-model/achieving-ecosystem-goals.md)
 * [Contributor Responsibilities](contributor-funding-model/contributor-responsibilities.md)
 * [Contributor Desirable Attributes](contributor-funding-model/contributor-desirable-attributes.md)
-* [Problems & Solutions](contributor-funding-model/problems-and-solutions.md)
+* [Concerns, Risks & Mitigation](contributor-funding-model/concerns-risks-and-mitigation.md)
 * [Future Improvements](contributor-funding-model/future-improvements.md)
 
 ## Contributor Approaches
