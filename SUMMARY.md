@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [What Is A Contributor?](what-is-a-contributor.md)
 
 ## Contributor Funding Model
 
