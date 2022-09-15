@@ -17,4 +17,3 @@ Contributors is the approach to bring together a group of community members to h
 * [**Comparisons**](broken-reference) - Comparing the different contributor types that have been created for use in Cardano and also comparing Catalyst Contributors with the Catalyst Circle approach.
 * [**Contributor Governance**](broken-reference) - Analysis for how contributors could handle rapid funding and exploring different governance decision examples.
 * [**Salary Research**](broken-reference) - Research into average salaries for the different roles that are relevant to full time contributors.
-* [**Contributor Funding Model**](broken-reference) - Analysis providing rationale behind why to use a contributor funding model, suitable approaches to use and what problems, solutions and future improvements exist for the model.
