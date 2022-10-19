@@ -27,6 +27,10 @@
 * [Catalyst vs Cardano vs Community Contributors](comparisons/catalyst-vs-cardano-vs-community-contributors.md)
 * [Catalyst Circle vs Catalyst Contributors](comparisons/catalyst-circle-vs-catalyst-contributors.md)
 
+## Experimental Categories Analysis
+
+* [Community Contributors Category](experimental-categories-analysis/community-contributors-category.md)
+
 ## Contributor Governance
 
 * [Rapid Funding](contributor-governance/rapid-funding.md)
