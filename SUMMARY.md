@@ -24,12 +24,12 @@
 
 * [Contributor vs Employee](comparisons/contributor-vs-employee.md)
 * [Idea vs Contributor Proposals](comparisons/idea-vs-contributor-proposals.md)
-* [Catalyst vs Cardano vs Community Contributors](comparisons/catalyst-vs-cardano-vs-community-contributors.md)
+* [Catalyst vs Infrastructure vs Cardano Contributors](analysis/catalyst-vs-infrastructure-vs-cardano-contributors.md)
 * [Catalyst Circle vs Catalyst Contributors](comparisons/catalyst-circle-vs-catalyst-contributors.md)
 
 ## Experimental Categories Analysis
 
-* [Community Contributors Category](experimental-categories-analysis/community-contributors-category.md)
+* [Cardano Contributors Category](experimental-categories-analysis/cardano-contributors-category.md)
 
 ## Contributor Governance
 
@@ -44,7 +44,7 @@
 
 * [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vZLnuW1KMXXsbdPSzee1/)
 * [Catalyst Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/j1kv4hiNJHn5g0WEyrK5/)
-* [Cardano Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/)
-* [Community Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/)
+* [Infrastructure Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/)
+* [Cardano Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/)
 * [All Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)
 * [Suggest Changes & Give Feedback](https://docs.catalystcontributors.org/documentation/suggest-changes-and-give-feedback)
